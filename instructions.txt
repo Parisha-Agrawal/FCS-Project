@@ -1,0 +1,15 @@
+open folder Group10->fcs_project
+
+In fcs_project
+>pip install -r requirements.txt
+>python manage.py runserver 8011
+
+Now in different terminal
+>cd frontend_fcs
+>npm i
+>npm start
+
+
+admin credentials
+username - admin
+password - 2021312@123
